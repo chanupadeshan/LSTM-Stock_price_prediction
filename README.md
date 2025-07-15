@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib plotly yfinance scikit-learn tensorflow
 
 - The LSTM model captures trends in closing prices.
 - Visual comparison between actual and predicted prices is provided.
-- (Optional: Add metrics such as RMSE or MAE if available.)
+- Add metrics such as RMSE or MAE if available.
 
 ## 🚀 Usage
 
