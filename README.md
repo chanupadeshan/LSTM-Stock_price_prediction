@@ -73,3 +73,10 @@ pip install pandas numpy matplotlib plotly yfinance scikit-learn tensorflow
 
 - The notebook is set up for POWERGRID.NS but can be adapted for other stocks.
 - Results may vary depending on market volatility and chosen parameters.
+
+## 🔮 Future Development
+
+- **Temporal Fusion Transformer (TFT):** Replace LSTM with TFT for improved time series forecasting and interpretability.
+- **Reinforcement Learning (RL):** Integrate RL techniques for dynamic trading strategies and portfolio management.
+- **Sentiment Analysis:** Incorporate news and social media sentiment to enhance prediction accuracy.
+- **Graphical User Interface (GUI):** Develop an interactive GUI for easier data exploration, model training, and visualization.
